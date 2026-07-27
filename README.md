@@ -15,6 +15,7 @@ A responsive, three-page blog website (home, login, register) built with HTML5, 
 | `images/` | Optional folder for local images |
 
 # My Project
+
 <p align="center">
   <img src="blog_preview.png" width="800">
 </p>
