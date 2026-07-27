@@ -14,7 +14,7 @@ A responsive, three-page blog website (home, login, register) built with HTML5, 
 | `register.js` | Registration validation + demo account creation |
 | `images/` | Optional folder for local images |
 
-# My Project
+## My Project
 
 <p align="center">
   <img src="blog_preview.png" width="800">
